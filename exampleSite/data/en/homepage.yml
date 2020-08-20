@@ -4,8 +4,8 @@ hero:
 
   # animated text loop
   occupations:
+    - "Web Designer"
     - "Web Developer"
-    - "Graphic Designer"
     - "Database Manager"
 
   # slider background image loop
