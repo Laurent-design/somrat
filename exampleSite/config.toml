@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://test-mycreateurdesite.netlify.com"
 title = "MyCréateurdeSite | Hugo Portfolio Template"
 theme = "somrat"
 # disable language
