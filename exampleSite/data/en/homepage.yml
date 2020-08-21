@@ -53,13 +53,13 @@ experience:
       content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
       
     # experience item loop
-    - name : "Graphic Designer"
+    - name : "Web Designer"
       company : "Fiverr.com"
       duration : "2015-2018"
       content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
       
     # experience item loop
-    - name : "Database Manager"
+    - name : "Web Writer"
       company : "Polytechnic"
       duration : "2014-2018"
       content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
@@ -72,19 +72,19 @@ skill:
   skill_list:
     # skill item loop
     - name : "Web Development"
-      parcentage : "98%"
+      parcentage : "95%"
       
     # skill item loop
-    - name : "Graphic Design"
+    - name : "Web Design"
       parcentage : "85%"
       
     # skill item loop
-    - name : "Database Management"
+    - name : "Web Writing"
       parcentage : "90%"
       
     # skill item loop
     - name : "Wordpress"
-      parcentage : "70%"
+      parcentage : "85%"
 
 
 ################################### Service ##############################3
