@@ -38,8 +38,8 @@ about:
   # button
   button:
     enable : true
-    label : "DOWNLOAD MY CV"
-    link : "#" # you can put your cv in static folder and give the path here.
+    label : "CONTACT ME"
+    link : "#contact" # you can put your cv in static folder and give the path here.
 
 ###########################3 Experience ##############################
 experience:
