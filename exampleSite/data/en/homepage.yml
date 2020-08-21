@@ -10,7 +10,7 @@ hero:
 
   # slider background image loop
   slider_image:
-    - "images/slider/slider-1-new-moi.jpg"
+    - "images/slider/slider-nb-new-myself.jpg"
     - "images/slider/slider-3.jpg"
     - "images/slider/slider-3-new.jpg"
 
