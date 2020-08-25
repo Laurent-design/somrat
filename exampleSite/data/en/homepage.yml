@@ -48,20 +48,20 @@ experience:
   experience_list:
     # experience item loop
     - name : "Web Developer"
-      company : "Fiverr.com"
-      duration : "2016-2018"
-      content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
+      company :
+      duration :
+      content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerces etc."
       
     # experience item loop
     - name : "Web Designer"
-      company : "Fiverr.com"
-      duration : "2015-2018"
+      company :
+      duration :
       content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
       
     # experience item loop
     - name : "Web Writer"
-      company : "Polytechnic"
-      duration : "2014-2018"
+      company :
+      duration :
       content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
 
 
