@@ -1,23 +1,23 @@
 ########################## hero area ##########################
 hero:
-  title : "I'm Laurent"
+  title : "Je suis Laurent"
 
   # animated text loop
   occupations:
     - "Web Developer"
-    - "Graphic Designer"
-    - "Database Manager"
+    - "Web Designer"
+    - "Rédacteur Web"
 
   # slider background image loop
   slider_image:
-    - "images/slider/slider-1.jpg"
-    - "images/slider/slider-2.jpg"
+    - "images/slider/slider-nb-new-myself.jpg"
     - "images/slider/slider-3.jpg"
+    - "images/slider/slider-3-new.jpg"
 
   # button
   button:
     enable : true
-    label : "HIRE ME"
+    label : "CONTACT"
     link : "#contact"
 
 
@@ -34,12 +34,12 @@ about:
   enable : true
   image : "images/backgrounds/portrait.jpg"
   title : "KNOW MORE <br> ABOUT ME"
-  content : "It's Somrat, Professional Web Developer. I love to write code, it's my passoin. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me............😊"
+  content : "Je m'appelle Laurent, Web Developpeur professionnel. I love to write code, it's my passoin. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me............😊"
   # button
   button:
     enable : true
-    label : "DOWNLOAD MY CV"
-    link : "#" # you can put your cv in static folder and give the path here.
+    label : "CONTACT"
+    link : "https://test-mycreateurdesite.netlify.app/#contact" # you can put your cv in static folder and give the path here.
 
 ###########################3 Experience ##############################
 experience:
@@ -47,21 +47,21 @@ experience:
   title : "EXPERIENCE"
   experience_list:
     # experience item loop
-    - name : "Web Developer"
-      company : "Fiverr.com"
-      duration : "2016-2018"
+    - name : "Web Developpeur"
+      company :
+      duration :
       content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
       
     # experience item loop
-    - name : "Graphic Designer"
-      company : "Fiverr.com"
-      duration : "2015-2018"
+    - name : "Web Designer"
+      company :
+      duration :
       content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
       
     # experience item loop
-    - name : "Database Manager"
-      company : "Polytechnic"
-      duration : "2014-2018"
+    - name : "Rédacteur Web"
+      company :
+      duration :
       content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
 
 
@@ -71,20 +71,20 @@ skill:
   title : "SKILL"
   skill_list:
     # skill item loop
-    - name : "Web Development"
-      parcentage : "98%"
+    - name : "Web Developpement"
+      parcentage : "95%"
       
     # skill item loop
-    - name : "Graphic Design"
+    - name : "Web Design"
       parcentage : "85%"
       
     # skill item loop
-    - name : "Database Management"
+    - name : "Rédaction Web"
       parcentage : "90%"
       
     # skill item loop
     - name : "Wordpress"
-      parcentage : "70%"
+      parcentage : "85%"
 
 
 ################################### Service ##############################3
@@ -121,10 +121,10 @@ service:
 call_to_action:
   enable : true
   bg_image : "images/backgrounds/need-service.jpg"
-  title : "NEED A SERVICE?"
+  title : "BESOIN DE MES SERVICES?"
   button:
     enable : true
-    label : "SAY HELLO!"
+    label : "C'EST PAR ICI!"
     link : "#contact"
 
 
@@ -227,7 +227,7 @@ portfolio:
 ################################# Testimonial #########################33
 testimonial:
   enable : true
-  title : "TESTIMONIALS"
+  title : "TEMOIGNAGES"
   testimonial_slider:
     # slider item loop
     - name : "Micheal Clark"
@@ -271,7 +271,7 @@ funfacts:
       count : "250"
       
     # funfacts item loop
-    - name : "CUPS OF COFFEE"
+    - name : "TASSE DE CAFE"
       image : "images/icons/coffee.png"
       count : "150"
 
@@ -279,4 +279,4 @@ funfacts:
 ############################## contact ###########################
 contact:
   enable : true
-  title : "SAY HELLO!"
+  title : "CONTACT"
