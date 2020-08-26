@@ -52,6 +52,11 @@ name = "Home"
 URL = "#home"
 weight = 1
 
+[[menu.main.fr]]
+name = "Accueil"
+URL = "#home"
+weight = 1
+
 [[menu.main]]
 name = "About me"
 URL = "#about"
