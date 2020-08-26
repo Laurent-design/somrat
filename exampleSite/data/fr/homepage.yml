@@ -30,7 +30,7 @@ fullscreen_nav:
   
 
 ########################### About ##################################
-A propos:
+about:
   enable : true
   image : "images/backgrounds/workcatandme-1-hugo-site.jpg"
   title : "A PROPOS"
