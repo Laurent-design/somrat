@@ -4,7 +4,7 @@ hero:
 
   # animated text loop
   occupations:
-    - "Web Developer"
+    - "Web Developpeur"
     - "Web Designer"
     - "Rédacteur Web"
 
@@ -34,7 +34,7 @@ about:
   enable : true
   image : "images/backgrounds/workcatandme-1-hugo-site.jpg"
   title : "A PROPOS"
-  content : "Je m'appelle Laurent, et je suis Web Developpeur professionnel. Coder est ma passion. Je suis là pour vous aider à réaliser vos projets et construire vos outils numériques. Je peux également vous aider à construire votre image numérique.<br>Peu importe la difficulté, je trouverai facilement le moyen de concrétiser vos projets. Restons connectés............😊"
+  content : "Je m'appelle Laurent, et je suis Développeur Web professionnel. Coder est ma passion. Je suis là pour vous aider à réaliser vos projets et construire vos outils numériques. Je peux également vous aider à construire votre image numérique. <br>Peu importe la difficulté, je trouverai facilement le moyen de concrétiser vos projets. Restons connectés............😊"
   # button
   button:
     enable : true
@@ -47,16 +47,16 @@ experience:
   title : "EXPERIENCE"
   experience_list:
     # experience item loop
-    - name : "Web Developpeur"
+    - name : "Développeur Web"
       company :
       duration :
-      content : "Je travaille avec HTML, CSS, Javascript et la GoLang pour créer des sites web et des applications que ce soit pour votre business, un blog, un site E-commerce etc."
+      content : "Je travaille avec HTML, CSS, Javascript et GoLang pour créer des sites web et des applications que ce soit pour votre business, un blog, un site E-commerce etc."
       
     # experience item loop
     - name : "Web Designer"
       company :
       duration :
-      content : "Le Web Design c'est l'art avec un but. J'adore la mise en page, et également la création de logo. Mais je peux faire beaucoup de choses avec le Web Design."
+      content : "Le Web Design c'est l'art avec un but à atteindre. J'adore la mise en page, et également la création de logo. Mais je peux faire beaucoup de choses avec le Web Design."
       
     # experience item loop
     - name : "Rédacteur Web"
@@ -71,7 +71,7 @@ skill:
   title : "COMPETENCES"
   skill_list:
     # skill item loop
-    - name : "Web Developpement"
+    - name : "Développement Web"
       parcentage : "95%"
       
     # skill item loop
@@ -93,27 +93,27 @@ service:
   title : "SERVICES"
   service_list:
     # service item loop
-    - name : "Web Development"
+    - name : "Développement Web"
       image : "images/icons/web-development.png"
       
     # service item loop
-    - name : "Graphic Design"
+    - name : "Web Design"
       image : "images/icons/graphic-design.png"
       
     # service item loop
-    - name : "Database Management"
+    - name : "Rédaction Web SEO"
       image : "images/icons/dbms.png"
       
     # service item loop
-    - name : "Software Development"
+    - name : "Développement de sites web"
       image : "images/icons/software-development.png"
       
     # service item loop
-    - name : "Digital Marketing"
+    - name : "Marketing Digital"
       image : "images/icons/marketing.png"
       
     # service item loop
-    - name : "Mobile App Development"
+    - name : "Dévelopment d'applications mobiles"
       image : "images/icons/mobile-app.png"
 
 
