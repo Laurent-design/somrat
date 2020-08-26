@@ -25,8 +25,8 @@ hero:
 fullscreen_nav:
   enable : true
   bg_image : "images/backgrounds/make-the-difference.jpg"
-  first_name : "Laurent"
-  last_name : "MyCréateurdeSite"
+  first_name : "MyCréateurdeSite"
+  last_name : ""
   
 
 ########################### About ##################################
