@@ -78,32 +78,32 @@ URL = "#contact"
 weight = 6
 
 [languages.fr]
-    [[menu.main]]
+    [[languages.fr.menu.main]]
 name = "Accueil"
 URL = "#home"
 weight = 1
 
-[[menu.main]]
-name = "About me"
+[[languages.fr.menu.main]]
+name = "A propos"
 URL = "#about"
 weight = 2
 
-[[menu.main]]
-name = "Service"
+[[languages.fr.menu.main]]
+name = "Services"
 URL = "#service"
 weight = 3
 
-[[menu.main]]
+[[languages.fr.menu.main]]
 name = "Portfolio"
 URL = "#portfolio"
 weight = 4
 
-[[menu.main]]
-name = "Testimonial"
+[[languages.fr.menu.main]]
+name = "Témoignages"
 URL = "#testimonial"
 weight = 5
 
-[[menu.main]]
+[[languages.fr.menu.main]]
 name = "Contact"
 URL = "#contact"
 weight = 6
