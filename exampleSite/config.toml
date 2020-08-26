@@ -77,37 +77,6 @@ name = "Contact"
 URL = "#contact"
 weight = 6
 
-# main menu
-[[menu.main.fr]]
-name = "Accueil"
-URL = "#home"
-weight = 1
-
-[[menu.main.fr]]
-name = "A propos"
-URL = "#about"
-weight = 2
-
-[[menu.main.fr]]
-name = "Services"
-URL = "#service"
-weight = 3
-
-[[menu.main.fr]]
-name = "Portfolio"
-URL = "#portfolio"
-weight = 4
-
-[[menu.main.fr]]
-name = "Témoignages"
-URL = "#testimonial"
-weight = 5
-
-[[menu.main.fr]]
-name = "Contact"
-URL = "#contact"
-weight = 6
-
 
 #################### default parameters ################################
 [params]
@@ -162,5 +131,8 @@ languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 2
 home = "Accueil"
+about me = "A propos"
+service = "Services"
+testimonial = "Témoignages"
 # copyright
 copyright = "Copyright &copy; 2020 a hugo theme by [MyCréateurdeSite](https://www.mycreateurdesite.fr/)"
