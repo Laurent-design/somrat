@@ -77,6 +77,37 @@ name = "Contact"
 URL = "#contact"
 weight = 6
 
+# main menu
+[[menu.main.fr-fr]]
+name = "Accueil"
+URL = "#home"
+weight = 1
+
+[[menu.main.fr-fr]]
+name = "A propos"
+URL = "#about"
+weight = 2
+
+[[menu.main.fr-fr]]
+name = "Services"
+URL = "#service"
+weight = 3
+
+[[menu.main.fr-fr]]
+name = "Portfolio"
+URL = "#portfolio"
+weight = 4
+
+[[menu.main.fr-fr]]
+name = "Témoignages"
+URL = "#testimonial"
+weight = 5
+
+[[menu.main.fr-fr]]
+name = "Contact"
+URL = "#contact"
+weight = 6
+
 
 #################### default parameters ################################
 [params]
