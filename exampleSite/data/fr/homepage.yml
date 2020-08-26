@@ -29,10 +29,10 @@ fullscreen_nav:
   last_name : "SOMRAT"
   
 
-########################### About ##################################
+########################### A propos ##################################
 about:
   enable : true
-  image : "images/backgrounds/portrait.jpg"
+  image : "images/backgrounds/workcatandme-1-hugo-site.jpg"
   title : "A PROPOS"
   content : "Je m'appelle Laurent, Web Developpeur professionnel. I love to write code, it's my passoin. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me............😊"
   # button
@@ -65,7 +65,7 @@ experience:
       content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
 
 
-############################### Skill #################################
+############################### Compétences #################################
 skill:
   enable : true
   title : "SKILL"
@@ -87,7 +87,7 @@ skill:
       parcentage : "85%"
 
 
-################################### Service ##############################3
+################################### Services ##############################3
 service:
   enable : true
   title : "SERVICES"
