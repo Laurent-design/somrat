@@ -131,8 +131,5 @@ languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 2
 home = "Accueil"
-about me = "A propos"
-service = "Services"
-testimonial = "Témoignages"
 # copyright
 copyright = "Copyright &copy; 2020 a hugo theme by [MyCréateurdeSite](https://www.mycreateurdesite.fr/)"
