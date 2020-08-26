@@ -29,8 +29,8 @@ fullscreen_nav:
   last_name : "SOMRAT"
   
 
-########################### A propos ##################################
-à propos:
+########################### About ##################################
+A propos:
   enable : true
   image : "images/backgrounds/workcatandme-1-hugo-site.jpg"
   title : "A PROPOS"
