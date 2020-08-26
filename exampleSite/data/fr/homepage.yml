@@ -68,7 +68,7 @@ experience:
 ############################### Skill #################################
 skill:
   enable : true
-  title : "SKILL"
+  title : "Compétences"
   skill_list:
     # skill item loop
     - name : "Web Developpement"
@@ -256,17 +256,17 @@ funfacts:
   enable : true
   funfacts_list:
     # funfacts item loop
-    - name : "HANDS TO WORK"
+    - name : "LES PETITES MAINS"
       image : "images/icons/works.png"
       count : "100"
       
     # funfacts item loop
-    - name : "HAPPY CLIENT"
+    - name : "CLIENTS SATISFAITS"
       image : "images/icons/happy.png"
       count : "200"
       
     # funfacts item loop
-    - name : "FINISHED PROJECT"
+    - name : "PROJETS REALISES"
       image : "images/icons/project.png"
       count : "250"
       
