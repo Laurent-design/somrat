@@ -1,6 +1,6 @@
 ########################## hero area ##########################
 hero:
-  title : "Je suis Laurent"
+  title : "Bonjour,<br>Je suis Laurent"
 
   # animated text loop
   occupations:
