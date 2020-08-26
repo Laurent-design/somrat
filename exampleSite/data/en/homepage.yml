@@ -79,7 +79,7 @@ skill:
       parcentage : "85%"
       
     # skill item loop
-    - name : "Web Writing"
+    - name : "Web Redaction"
       parcentage : "90%"
       
     # skill item loop
