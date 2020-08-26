@@ -132,39 +132,34 @@ contentDir = "content/french"
 weight = 2
 home = "Accueil"
 # main menu
-[languages]
-    [languages.fr-fr]
-        languagename = "Français"
-
-        [languages.fr-fr.menu]
-
-    [[languages.fr-fr.menu.main]]
+    [[menu.main]]
 name = "Accueil"
 URL = "#home"
 weight = 1
 
-[[languages.fr-fr.menu.main]]
+[[menu.main]]
 name = "A propos"
 URL = "#about"
 weight = 2
 
-[[languages.fr-fr.menu.main]]
+[[menu.main]]
 name = "Services"
 URL = "#service"
 weight = 3
 
-[[languages.fr-fr.menu.main]]
+[[menu.main]]
 name = "Portfolio"
 URL = "#portfolio"
 weight = 4
 
-[[languages.fr-fr.menu.main]]
+[[menu.main]]
 name = "Témoignages"
 URL = "#testimonial"
 weight = 5
 
-[[languages.fr-fr.menu.main]]
+[[menu.main]]
 name = "Contact"
 URL = "#contact"
-weight = 6# copyright
+weight = 6
+# copyright
 copyright = "Copyright &copy; 2020 a hugo theme by [MyCréateurdeSite](https://www.mycreateurdesite.fr/)"
