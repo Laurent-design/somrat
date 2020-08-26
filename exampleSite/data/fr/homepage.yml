@@ -271,7 +271,7 @@ funfacts:
       count : "250"
       
     # funfacts item loop
-    - name : "TASSE DE CAFE"
+    - name : "TASSES DE CAFE"
       image : "images/icons/coffee.png"
       count : "150"
 
