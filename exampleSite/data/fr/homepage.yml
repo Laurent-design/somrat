@@ -4,9 +4,9 @@ hero:
 
   # animated text loop
   occupations:
-    - "Web Developpeur"
+    - "Développeur Web"
     - "Web Designer"
-    - "Rédacteur Web"
+    - "Rédacteur Web SEO"
 
   # slider background image loop
   slider_image:
@@ -59,7 +59,7 @@ experience:
       content : "Le Web Design c'est l'art avec un but à atteindre. J'adore la mise en page, et également la création de logo. Mais je peux faire beaucoup de choses avec le Web Design."
       
     # experience item loop
-    - name : "Rédacteur Web"
+    - name : "Rédacteur Web SEO"
       company :
       duration :
       content : "La réadaction web est une étape essentielle pour la conception et le référencement futur de votre site web."
@@ -79,7 +79,7 @@ skill:
       parcentage : "85%"
       
     # skill item loop
-    - name : "Rédaction Web"
+    - name : "Rédaction Web SEO"
       parcentage : "90%"
       
     # skill item loop
@@ -105,7 +105,7 @@ service:
       image : "images/icons/dbms.png"
       
     # service item loop
-    - name : "Développement de sites web"
+    - name : "Développement de Sites Web"
       image : "images/icons/software-development.png"
       
     # service item loop
@@ -113,7 +113,7 @@ service:
       image : "images/icons/marketing.png"
       
     # service item loop
-    - name : "Dévelopment d'applications mobiles"
+    - name : "Maintenance et Sécurité des Sites Web"
       image : "images/icons/mobile-app.png"
 
 
