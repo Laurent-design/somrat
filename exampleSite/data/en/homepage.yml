@@ -97,15 +97,15 @@ service:
       image : "images/icons/web-development.png"
       
     # service item loop
-    - name : "Graphic Design"
+    - name : "Web Design"
       image : "images/icons/graphic-design.png"
       
     # service item loop
-    - name : "Database Management"
+    - name : "Web Redaction"
       image : "images/icons/dbms.png"
       
     # service item loop
-    - name : "Web Redaction"
+    - name : "Websites development"
       image : "images/icons/software-development.png"
       
     # service item loop
