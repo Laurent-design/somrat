@@ -101,10 +101,6 @@ icon = "fa-facebook-f" # fontawesome icon 4.7.0 : https://fontawesome.com/v4.7.0
 link = "https://www.facebook.com/somrat.mac"
 
 [[params.social]]
-icon = "fa-twitter" # fontawesome icon 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-link = "https://twitter.com/somrat_37"
-
-[[params.social]]
 icon = "fa-instagram" # fontawesome icon 4.7.0 : https://fontawesome.com/v4.7.0/icons/
 link = "https://www.instagram.com/somrat_sorkar/"
 
@@ -125,7 +121,7 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
+copyright = "Copyright &copy; 2020 a hugo theme by [MyCréateurdeSite](https://www.mycreateurdesite.fr/)"
 
 
 ################################### French language #####################################
