@@ -77,34 +77,38 @@ name = "Contact"
 URL = "#contact"
 weight = 6
 
-#main menu
-[languages.fr]
-    [[languages.fr-fr.menu.main]]
+[languages]
+    [languages.fr]
+        languagename = "Français"
+
+        [languages.fr.menu]
+
+    [[languages.fr.menu.main]]
 name = "Accueil"
 URL = "#home"
 weight = 1
 
-[[languages.fr-fr.menu.main]]
+[[languages.fr.menu.main]]
 name = "A propos"
 URL = "#about"
 weight = 2
 
-[[languages.fr-fr.menu.main]]
+[[languages.fr.menu.main]]
 name = "Services"
 URL = "#service"
 weight = 3
 
-[[languages.fr-fr.menu.main]]
+[[languages.fr.menu.main]]
 name = "Portfolio"
 URL = "#portfolio"
 weight = 4
 
-[[languages.fr-fr.menu.main]]
+[[languages.fr.menu.main]]
 name = "Témoignages"
 URL = "#testimonial"
 weight = 5
 
-[[languages.fr-fr.menu.main]]
+[[languages.fr.menu.main]]
 name = "Contact"
 URL = "#contact"
 weight = 6
