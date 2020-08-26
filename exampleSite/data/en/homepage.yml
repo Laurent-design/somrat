@@ -50,7 +50,7 @@ experience:
     - name : "Web Developer"
       company :
       duration :
-      content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerces etc."
+      content : "I work with HTML, CSS, Javascript and GoLang to create websites and web applications like Personal, Business, Blog, E-comerces etc."
       
     # experience item loop
     - name : "Web Designer"
@@ -62,7 +62,7 @@ experience:
     - name : "Web Writer"
       company :
       duration :
-      content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
+      content : "Web Redaction is among the fundamental processes in the ranking of your website."
 
 
 ############################### Skill #################################
@@ -105,7 +105,7 @@ service:
       image : "images/icons/dbms.png"
       
     # service item loop
-    - name : "Software Development"
+    - name : "Web Redaction"
       image : "images/icons/software-development.png"
       
     # service item loop
@@ -113,7 +113,7 @@ service:
       image : "images/icons/marketing.png"
       
     # service item loop
-    - name : "Mobile App Development"
+    - name : "Maintenance and Security of websites"
       image : "images/icons/mobile-app.png"
 
 
