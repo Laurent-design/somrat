@@ -24,7 +24,7 @@ hero:
 ####################### Full screen navigation #####################
 fullscreen_nav:
   enable : true
-  bg_image : "images/backgrounds/full-nav-bg.jpg"
+  bg_image : "images/backgrounds/make-the-difference.jpg"
   first_name : "Laurent"
   last_name : "MyCréateurdeSite"
   
