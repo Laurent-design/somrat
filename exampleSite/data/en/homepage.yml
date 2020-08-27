@@ -105,7 +105,7 @@ service:
       image : "images/icons/dbms.png"
       
     # service item loop
-    - name : "Websites development"
+    - name : "Community Management"
       image : "images/icons/software-development.png"
       
     # service item loop
