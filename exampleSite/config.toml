@@ -47,32 +47,32 @@ link = "plugins/owl-carousel/owl.carousel.min.js"
 ############################## navigation ###############################
 
 # main menu
-[[languages.en.menu.main]]
+[[menu.main]]
 name = "Home"
 URL = "#home"
 weight = 1
 
-[[languages.en.menu.main]]
+[[menu.main]]
 name = "About me"
 URL = "#about"
 weight = 2
 
-[[languages.en.menu.main]]
+[[menu.main]]
 name = "Service"
 URL = "#service"
 weight = 3
 
-[[languages.en.menu.main]]
+[[menu.main]]
 name = "Portfolio"
 URL = "#portfolio"
 weight = 4
 
-[[languages.en.menu.main]]
+[[menu.main]]
 name = "Testimonial"
 URL = "#testimonial"
 weight = 5
 
-[[languages.en.menu.main]]
+[[menu.main]]
 name = "Contact"
 URL = "#contact"
 weight = 6
