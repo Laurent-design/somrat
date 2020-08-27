@@ -173,55 +173,55 @@ portfolio:
     - name : "Project <br> Title"
       image : "images/portfolio/item7.jpg"
       date : "Feb 2018"
-      category : "Graphics"
+      category : "Web Design"
       
     # portfolio item loop
     - name : "Project <br> Title"
       image : "images/portfolio/item8.jpg"
       date : "Feb 2018"
-      category : "Graphics"
+      category : "Web Design"
       
     # portfolio item loop
     - name : "Project <br> Title"
       image : "images/portfolio/item9.jpg"
       date : "Feb 2018"
-      category : "Database"
+      category : "Web Redaction"
       
     # portfolio item loop
     - name : "Project <br> Title"
       image : "images/portfolio/item10.jpg"
       date : "Feb 2018"
-      category : "Database"
+      category : "Web Redaction"
       
     # portfolio item loop
     - name : "Project <br> Title"
       image : "images/portfolio/item11.jpg"
       date : "Feb 2018"
-      category : "Database"
+      category : "Logo"
       
     # portfolio item loop
     - name : "Project <br> Title"
       image : "images/portfolio/item12.jpg"
       date : "Feb 2018"
-      category : "Graphics"
+      category : "Web Design"
       
     # portfolio item loop
     - name : "Project <br> Title"
       image : "images/portfolio/item13.jpg"
       date : "Feb 2018"
-      category : "Graphics"
+      category : "Web Design"
       
     # portfolio item loop
     - name : "Project <br> Title"
       image : "images/portfolio/item14.jpg"
       date : "Feb 2018"
-      category : "Graphics"
+      category : "Web Design"
       
     # portfolio item loop
     - name : "Project <br> Title"
       image : "images/portfolio/item15.jpg"
       date : "Feb 2018"
-      category : "Graphics"
+      category : "Web Design"
 
 
 ################################# Testimonial #########################33
