@@ -256,7 +256,7 @@ funfacts:
   enable : true
   funfacts_list:
     # funfacts item loop
-    - name : "HANDS WORKING"
+    - name : "HANDS TO WORK"
       image : "images/icons/works.png"
       count : "2"
       
