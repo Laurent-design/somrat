@@ -256,10 +256,9 @@ funfacts:
   enable : true
   funfacts_list:
     # funfacts item loop
-    - name : "HEURES"
+    - name : "HEURES DE TRAVAIL"
       image : "images/icons/works.png"
-      count : "900..."
-      
+      count : "9000" 😊      
     # funfacts item loop
     - name : "CLIENTS SATISFAITS"
       image : "images/icons/happy.png"
