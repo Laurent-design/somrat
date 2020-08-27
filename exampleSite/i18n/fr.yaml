@@ -48,3 +48,6 @@
 
 - id: tags
   translation: Tags
+
+- id: home
+  translation: Accueil
