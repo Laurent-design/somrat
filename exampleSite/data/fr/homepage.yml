@@ -137,91 +137,91 @@ portfolio:
     - name : "Project <br> Title"
       image : "images/portfolio/item1.jpg"
       date : "Feb 2018"
-      category : "Web Development"
+      category : "Développement Web"
       
     # portfolio item loop
     - name : "Project <br> Title"
       image : "images/portfolio/item2.jpg"
       date : "Feb 2018"
-      category : "Web Development"
+      category : "Développement Web"
       
     # portfolio item loop
     - name : "Project <br> Title"
       image : "images/portfolio/item3.jpg"
       date : "Feb 2018"
-      category : "Web Development"
+      category : "Développement Web"
       
     # portfolio item loop
     - name : "Project <br> Title"
       image : "images/portfolio/item4.jpg"
       date : "Feb 2018"
-      category : "Web Development"
+      category : "Développement Web"
       
     # portfolio item loop
     - name : "Project <br> Title"
       image : "images/portfolio/item5.jpg"
       date : "Feb 2018"
-      category : "Web Development"
+      category : "Développement Web"
       
     # portfolio item loop
     - name : "Project <br> Title"
       image : "images/portfolio/item6.jpg"
       date : "Feb 2018"
-      category : "Web Development"
+      category : "Développement Web"
       
     # portfolio item loop
     - name : "Project <br> Title"
       image : "images/portfolio/item7.jpg"
       date : "Feb 2018"
-      category : "Graphics"
+      category : "Rédaction web"
       
     # portfolio item loop
     - name : "Project <br> Title"
       image : "images/portfolio/item8.jpg"
       date : "Feb 2018"
-      category : "Graphics"
+      category : "Rédaction web"
       
     # portfolio item loop
     - name : "Project <br> Title"
       image : "images/portfolio/item9.jpg"
       date : "Feb 2018"
-      category : "Database"
+      category : "Web design"
       
     # portfolio item loop
     - name : "Project <br> Title"
       image : "images/portfolio/item10.jpg"
       date : "Feb 2018"
-      category : "Database"
+      category : "Web design"
       
     # portfolio item loop
     - name : "Project <br> Title"
       image : "images/portfolio/item11.jpg"
       date : "Feb 2018"
-      category : "Database"
+      category : "Logo"
       
     # portfolio item loop
     - name : "Project <br> Title"
       image : "images/portfolio/item12.jpg"
       date : "Feb 2018"
-      category : "Graphics"
+      category : "Web design"
       
     # portfolio item loop
     - name : "Project <br> Title"
       image : "images/portfolio/item13.jpg"
       date : "Feb 2018"
-      category : "Graphics"
+      category : "Web design"
       
     # portfolio item loop
     - name : "Project <br> Title"
       image : "images/portfolio/item14.jpg"
       date : "Feb 2018"
-      category : "Graphics"
+      category : "Web design"
       
     # portfolio item loop
     - name : "Project <br> Title"
       image : "images/portfolio/item15.jpg"
       date : "Feb 2018"
-      category : "Graphics"
+      category : "Web design"
 
 
 ################################# Testimonial #########################33
