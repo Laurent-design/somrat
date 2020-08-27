@@ -258,7 +258,7 @@ funfacts:
     # funfacts item loop
     - name : "HEURES"
       image : "images/icons/works.png"
-      count : "900+"
+      count : "900..."
       
     # funfacts item loop
     - name : "CLIENTS SATISFAITS"
