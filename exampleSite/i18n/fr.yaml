@@ -1,0 +1,50 @@
+- id: read_more
+  translation: Lire plus
+  
+- id: address
+  translation: Notre adresse
+
+- id: phone
+  translation: Numéro de téléphone
+
+- id: email
+  translation: Ecrivez-nous
+
+- id: contact_form
+  translation: Contact Form
+
+- id: send
+  translation: envoyer un message
+
+- id: follow
+  translation: SUIVEZ-NOUS
+
+- id: services
+  translation: Services
+
+- id: contact_info
+  translation: Info
+
+- id: subscribe_newsletter
+  translation: Souscrire à la newsletter
+
+- id: subscribe
+  translation: Souscrire
+
+- id: connect_with_us
+  translation: Connectez-vous
+
+- id: call_now
+  translation: Appelez 
+
+- id: search_placeholder
+  translation: Taper et appuyer sur entrée...
+
+- id: latest_article
+  translation: Derniers articles
+
+- id: category
+  translation: Categories
+
+- id: tags
+  translation: Tags
