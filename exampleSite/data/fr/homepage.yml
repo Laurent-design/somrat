@@ -10,8 +10,8 @@ hero:
 
   # slider background image loop
   slider_image:
-    - "images/slider/slider-nb-new-myself.jpg"
-    - "images/slider/slider-3.jpg"
+    - "images/slider/slider-nb-round.jpg"
+    - "images/slider/19585-chess.jpg"
     - "images/slider/slider-3-new.jpg"
 
   # button
@@ -24,9 +24,9 @@ hero:
 ####################### Full screen navigation #####################
 fullscreen_nav:
   enable : true
-  bg_image : "images/backgrounds/nav-menu-hugowebsite.jpg"
-  first_name : "Laurent"
-  last_name : "MyCréateurdeSite"
+  bg_image : "images/backgrounds/photo-1558625628-8b7292e0c335.jpeg"
+  first_name : "coding is a world in motion"
+  last_name : "</my:créateurdesite>"
   
 
 ########################### About ##################################
@@ -227,7 +227,7 @@ portfolio:
 ################################# Testimonial #########################33
 testimonial:
   enable : true
-  title : "TEMOIGNAGES"
+  title : "PARTENAIRES"
   testimonial_slider:
     # slider item loop
     - name : "Micheal Clark"
