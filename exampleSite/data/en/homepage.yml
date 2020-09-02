@@ -1,12 +1,12 @@
 ########################## hero area ##########################
 hero:
-  title : "Hi, I'm Laurent"
+  title : "Je suis Laurent, et vous ?"
 
   # animated text loop
   occupations:
+    - "Développeur Web"
     - "Web Designer"
-    - "Web Developer"
-    - "Web Writer"
+    - "Rédacteur Web SEO"
 
   # slider background image loop
   slider_image:
@@ -17,7 +17,7 @@ hero:
   # button
   button:
     enable : true
-    label : "HIRE ME"
+    label : "CONTACT"
     link : "#contact"
 
 
@@ -33,13 +33,13 @@ fullscreen_nav:
 about:
   enable : true
   image : "images/backgrounds/workcatandme-1-hugo-site.jpg"
-  title : "KNOW MORE <br> ABOUT ME"
-  content : "Hello everyone, I'm Laurent, Professional Web Developer and Web Designer. I love to design and to write code, it's my passion. I am here to help you, I am here to design your web page. I can help you to describe yourself in the best way.<br>No matter how difficult your web page is, I will find an easy way and complete your work anyway. Stay connect with me............😊"
+  title : "A PROPOS"
+  content : "Bonjour tout le monde, je suis Laurent, Développeur Web professionnel. Coder est ma passion. Je suis là pour vous aider à réaliser vos projets et construire vos outils numériques. Je peux également vous aider à construire votre image numérique. <br>Peu importe la difficulté, je trouverai facilement le moyen de concrétiser vos projets. Restons connectés............😊"
   # button
   button:
     enable : true
-    label : "CONTACT ME"
-    link : "https://test-mycreateurdesite.netlify.app/#contact" # you can put your cv in static folder and give the path here.
+    label : "CONTACT"
+    link : "https://test-mycreateurdesite.netlify.app/fr/#contact" # you can put your cv in static folder and give the path here.
 
 ###########################3 Experience ##############################
 experience:
@@ -47,31 +47,31 @@ experience:
   title : "EXPERIENCE"
   experience_list:
     # experience item loop
-    - name : "Web Developer"
+    - name : "Développeur Web"
       company :
       duration :
-      content : "I work with HTML, CSS, Javascript, WordPress and GoLang to create websites and web applications like Personal, Business, Blog, E-comerces etc."
+      content : "Je travaille avec HTML, CSS, Javascript, WordPress et GoLang pour créer des sites web et des applications que ce soit pour votre business, un blog, un site E-commerce etc."
       
     # experience item loop
     - name : "Web Designer"
       company :
       duration :
-      content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But I can do many things with graphics."
+      content : "Le Web Design c'est l'art avec un but à atteindre. J'adore la mise en page, et également la création de logo. Mais je peux faire beaucoup de choses avec le Web Design."
       
     # experience item loop
-    - name : "Web Writer"
+    - name : "Rédacteur Web SEO"
       company :
       duration :
-      content : "Web Redaction is among the fundamental processes in the ranking of your website."
+      content : "La réadaction web est une étape essentielle pour la conception et le référencement futur de votre site web."
 
 
 ############################### Skill #################################
 skill:
   enable : true
-  title : "SKILL"
+  title : "COMPETENCES"
   skill_list:
     # skill item loop
-    - name : "Web Development"
+    - name : "Développement Web"
       parcentage : "85%"
       
     # skill item loop
@@ -79,7 +79,7 @@ skill:
       parcentage : "90%"
       
     # skill item loop
-    - name : "Web Redaction"
+    - name : "Rédaction Web SEO"
       parcentage : "80%"
       
     # skill item loop
@@ -93,7 +93,7 @@ service:
   title : "SERVICES"
   service_list:
     # service item loop
-    - name : "Web Development"
+    - name : "Développement Web"
       image : "images/icons/web-development.png"
       
     # service item loop
@@ -101,7 +101,7 @@ service:
       image : "images/icons/graphic-design.png"
       
     # service item loop
-    - name : "Web Redaction"
+    - name : "Rédaction Web SEO"
       image : "images/icons/dbms.png"
       
     # service item loop
@@ -109,11 +109,11 @@ service:
       image : "images/icons/software-development.png"
       
     # service item loop
-    - name : "Digital Marketing"
+    - name : "Marketing Digital"
       image : "images/icons/marketing.png"
       
     # service item loop
-    - name : "Maintenance and Security of websites"
+    - name : "Maintenance et Sécurité des Sites Web"
       image : "images/icons/mobile-app.png"
 
 
@@ -121,10 +121,10 @@ service:
 call_to_action:
   enable : true
   bg_image : "images/backgrounds/need-service.jpg"
-  title : "NEED A SERVICE?"
+  title : "BESOIN DE MES SERVICES?"
   button:
     enable : true
-    label : "SAY HELLO!"
+    label : "C'EST PAR ICI!"
     link : "#contact"
 
 
@@ -137,61 +137,61 @@ portfolio:
     - name : "Project <br> Title"
       image : "images/portfolio/item1.jpg"
       date : "Feb 2018"
-      category : "Web Development"
+      category : "Développement Web"
       
     # portfolio item loop
     - name : "Project <br> Title"
       image : "images/portfolio/item2.jpg"
       date : "Feb 2018"
-      category : "Logo"
+      category : "Développement Web"
       
     # portfolio item loop
     - name : "Project <br> Title"
       image : "images/portfolio/item3.jpg"
       date : "Feb 2018"
-      category : "Web Development"
+      category : "Développement Web"
       
     # portfolio item loop
     - name : "Project <br> Title"
       image : "images/portfolio/item4.jpg"
       date : "Feb 2018"
-      category : "Web Development"
+      category : "Développement Web"
       
     # portfolio item loop
     - name : "Project <br> Title"
       image : "images/portfolio/item5.jpg"
       date : "Feb 2018"
-      category : "Web Development"
+      category : "Développement Web"
       
     # portfolio item loop
     - name : "Project <br> Title"
       image : "images/portfolio/item6.jpg"
       date : "Feb 2018"
-      category : "Web Development"
+      category : "Développement Web"
       
     # portfolio item loop
     - name : "Project <br> Title"
       image : "images/portfolio/item7.jpg"
       date : "Feb 2018"
-      category : "Web Design"
+      category : "Rédaction web"
       
     # portfolio item loop
     - name : "Project <br> Title"
       image : "images/portfolio/item8.jpg"
       date : "Feb 2018"
-      category : "Web Design"
+      category : "Rédaction web"
       
     # portfolio item loop
     - name : "Project <br> Title"
       image : "images/portfolio/item9.jpg"
       date : "Feb 2018"
-      category : "Web Redaction"
+      category : "Web design"
       
     # portfolio item loop
     - name : "Project <br> Title"
       image : "images/portfolio/item10.jpg"
       date : "Feb 2018"
-      category : "Web Redaction"
+      category : "Web design"
       
     # portfolio item loop
     - name : "Project <br> Title"
@@ -203,31 +203,31 @@ portfolio:
     - name : "Project <br> Title"
       image : "images/portfolio/item12.jpg"
       date : "Feb 2018"
-      category : "Web Design"
+      category : "Web design"
       
     # portfolio item loop
     - name : "Project <br> Title"
       image : "images/portfolio/item13.jpg"
       date : "Feb 2018"
-      category : "Web Design"
+      category : "Web design"
       
     # portfolio item loop
     - name : "Project <br> Title"
       image : "images/portfolio/item14.jpg"
       date : "Feb 2018"
-      category : "Web Design"
+      category : "Web design"
       
     # portfolio item loop
     - name : "Project <br> Title"
       image : "images/portfolio/item15.jpg"
       date : "Feb 2018"
-      category : "Web Design"
+      category : "Web design"
 
 
-################################# Testimonials #########################33
+################################# Testimonial #########################33
 testimonial:
   enable : true
-  title : "PARTNERS"
+  title : "PARTENAIRES"
   testimonial_slider:
     # slider item loop
     - name : "Micheal Clark"
@@ -256,22 +256,21 @@ funfacts:
   enable : true
   funfacts_list:
     # funfacts item loop
-    - name : "HANDS TO WORK"
+    - name : "MAINS QUI PIANOTENT"
       image : "images/icons/works.png"
-      count : "2"
-      
+      count : "2"     
     # funfacts item loop
-    - name : "HAPPY CLIENT"
+    - name : "CLIENTS SATISFAITS"
       image : "images/icons/happy.png"
       count : "100"
       
     # funfacts item loop
-    - name : "FINISHED PROJECT"
+    - name : "PROJETS REALISES"
       image : "images/icons/project.png"
       count : "150"
       
     # funfacts item loop
-    - name : "CUPS OF COFFEE"
+    - name : "TASSES DE CAFE"
       image : "images/icons/coffee.png"
       count : "125"
 
@@ -279,4 +278,4 @@ funfacts:
 ############################## contact ###########################
 contact:
   enable : true
-  title : "SAY HELLO!"
+  title : "CONTACT"
