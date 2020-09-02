@@ -24,7 +24,7 @@ hero:
 ####################### Full screen navigation #####################
 fullscreen_nav:
   enable : true
-  bg_image : "images/backgrounds/nav-menu-hugowebsite.jpg"
+  bg_image : "images/backgrounds/photo-1558625628-8b7292e0c335.jpeg"
   first_name : "Laurent"
   last_name : "MyCréateurdeSite"
   
