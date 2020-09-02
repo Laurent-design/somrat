@@ -1,9 +1,10 @@
 ########################## hero area ##########################
 hero:
-  title : "Hi, I'm Laurent"
+  title : "Bonjour !"
 
   # animated text loop
   occupations:
+    - "Je suis Laurent"
     - "Développeur Web"
     - "Web Designer"
     - "Rédacteur Web SEO"
