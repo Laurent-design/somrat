@@ -68,8 +68,8 @@ URL = "#portfolio"
 weight = 4
 
 [[menu.main]]
-name = "Testimonial"
-URL = "#testimonial"
+name = "Partners"
+URL = "#partners"
 weight = 5
 
 [[menu.main]]
