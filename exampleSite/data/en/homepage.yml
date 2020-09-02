@@ -11,7 +11,7 @@ hero:
   # slider background image loop
   slider_image:
     - "images/slider/slider-color-uk.jpg"
-    - "images/slider/19585.jpg"
+    - "images/slider/19585-chess.jpg"
     - "images/slider/slider-3-new.jpg"
 
   # button
