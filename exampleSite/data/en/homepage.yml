@@ -26,7 +26,7 @@ fullscreen_nav:
   enable : true
   bg_image : "images/backgrounds/photo-1558625628-8b7292e0c335.jpeg"
   first_name : "coding is a world in motion"
-  last_name : "MyCréateurdeSite"
+  last_name : "</my:créateurdesite>"
   
 
 ########################### About ##################################
