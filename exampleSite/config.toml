@@ -49,13 +49,13 @@ link = "plugins/owl-carousel/owl.carousel.min.js"
 ############################## navigation ###############################
 
 # main menu
-[[menu.main.en]]
-name = "Home"
-URL = "#home"
-weight = 1
+[languages]
+    [languages.en]
+        languagename = "English"
 
-[[menu.main.fr]]
-name = "Accueil"
+        [languages.en.menu]
+[[languages.en.menu.main]]
+name = "Home"
 URL = "#home"
 weight = 1
 
@@ -84,6 +84,12 @@ name = "Contact"
 URL = "#contact"
 weight = 6
 
+[languages.fr.menu]
+
+[[languages.fr.menu.main]]
+name = "Accueil"
+URL = "#home"
+weight = 1
 
 #################### default parameters ################################
 [params]
