@@ -48,7 +48,7 @@ link = "plugins/owl-carousel/owl.carousel.min.js"
 
 # main menu
 [[menu.main]]
-name = "Home"
+name = "Accueil"
 URL = "#home"
 weight = 1
 
