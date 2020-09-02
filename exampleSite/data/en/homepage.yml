@@ -34,7 +34,7 @@ about:
   enable : true
   image : "images/backgrounds/workcatandme-1-hugo-site.jpg"
   title : "KNOW MORE <br> ABOUT ME"
-  content : "It's Laurent, Professional Web Developer and Web Designer. I love to design and to write code, it's my passion. I am here to help you, I am here to design your web page. I can help you to describe yourself in the best way.<br>No matter how difficult your web page is, I will find an easy way and complete your work anyway. Stay connect with me............😊"
+  content : "Hello everyone, it's Laurent, Professional Web Developer and Web Designer. I love to design and to write code, it's my passion. I am here to help you, I am here to design your web page. I can help you to describe yourself in the best way.<br>No matter how difficult your web page is, I will find an easy way and complete your work anyway. Stay connect with me............😊"
   # button
   button:
     enable : true
@@ -56,7 +56,7 @@ experience:
     - name : "Web Designer"
       company :
       duration :
-      content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
+      content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But I can do many things with graphics."
       
     # experience item loop
     - name : "Web Writer"
