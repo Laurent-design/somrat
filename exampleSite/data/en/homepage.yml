@@ -225,7 +225,7 @@ portfolio:
 
 
 ################################# Testimonials #########################33
-testimonials:
+testimonial:
   enable : true
   title : "PARTNERS"
   partners_slider:
