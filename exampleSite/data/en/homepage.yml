@@ -224,8 +224,8 @@ portfolio:
       category : "Web Design"
 
 
-################################# Partners #########################33
-partners:
+################################# Testimonials #########################33
+testimonials:
   enable : true
   title : "PARTNERS"
   partners_slider:
