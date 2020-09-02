@@ -69,7 +69,7 @@ weight = 4
 
 [[menu.main]]
 name = "Partners"
-URL = "#partners"
+URL = "#testimonials"
 weight = 5
 
 [[menu.main]]
