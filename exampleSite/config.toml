@@ -2,6 +2,8 @@
 baseURL = "https://test-mycreateurdesite.netlify.com"
 title = "MyCréateurdeSite | Freelance Site Web"
 theme = "somrat"
+languagecode = "en"
+defaultcontentlanguage = "en"
 # disable language
 disableLanguages = [] # disable language from here
 
@@ -47,7 +49,7 @@ link = "plugins/owl-carousel/owl.carousel.min.js"
 ############################## navigation ###############################
 
 # main menu
-[[menu.main]]
+[[menu.main.en]]
 name = "Home"
 URL = "#home"
 weight = 1
