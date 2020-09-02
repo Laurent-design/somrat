@@ -227,7 +227,7 @@ portfolio:
 ################################# Testimonial #########################33
 testimonial:
   enable : true
-  title : "TESTIMONIALS"
+  title : "PARTNERS"
   testimonial_slider:
     # slider item loop
     - name : "Micheal Clark"
