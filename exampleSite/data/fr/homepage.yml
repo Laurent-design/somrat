@@ -50,7 +50,7 @@ experience:
     - name : "Développeur Web"
       company :
       duration :
-      content : "Je travaille avec HTML, CSS, Javascript et GoLang pour créer des sites web et des applications que ce soit pour votre business, un blog, un site E-commerce etc."
+      content : "Je travaille avec HTML, CSS, Javascript, WordPress et GoLang pour créer des sites web et des applications que ce soit pour votre business, un blog, un site E-commerce etc."
       
     # experience item loop
     - name : "Web Designer"
@@ -72,19 +72,19 @@ skill:
   skill_list:
     # skill item loop
     - name : "Développement Web"
-      parcentage : "95%"
+      parcentage : "85%"
       
     # skill item loop
     - name : "Web Design"
-      parcentage : "85%"
-      
-    # skill item loop
-    - name : "Rédaction Web SEO"
       parcentage : "90%"
       
     # skill item loop
+    - name : "Rédaction Web SEO"
+      parcentage : "80%"
+      
+    # skill item loop
     - name : "Wordpress"
-      parcentage : "85%"
+      parcentage : "95%"
 
 
 ################################### Service ##############################3
