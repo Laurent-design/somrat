@@ -53,12 +53,12 @@ URL = "#home"
 weight = 1
 
 [[menu.main]]
-name = "About me"
+name = "A propos"
 URL = "#about"
 weight = 2
 
 [[menu.main]]
-name = "Service"
+name = "Services"
 URL = "#service"
 weight = 3
 
@@ -68,7 +68,7 @@ URL = "#portfolio"
 weight = 4
 
 [[menu.main]]
-name = "Partners"
+name = "Partenaires"
 URL = "#testimonial"
 weight = 5
 
