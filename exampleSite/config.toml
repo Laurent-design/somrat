@@ -3,7 +3,7 @@ baseURL = "https://test-mycreateurdesite.netlify.com"
 title = "MyCréateurdeSite | Freelance Site Web"
 theme = "somrat"
 # disable language
-disableLanguages = ["fr"] # disable language from here
+disableLanguages = [] # disable language from here
 
 ############################# Plugins ##############################
 
