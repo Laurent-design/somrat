@@ -121,10 +121,10 @@ service:
 call_to_action:
   enable : true
   bg_image : "images/backgrounds/need-service.jpg"
-  title : "BESOIN DE MES SERVICES?"
+  title : "BESOIN D'UN SERVICE ?"
   button:
     enable : true
-    label : "C'EST PAR ICI!"
+    label : "C'EST PARTI !"
     link : "#contact"
 
 
