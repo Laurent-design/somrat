@@ -50,7 +50,7 @@ experience:
     - name : "Web Developer"
       company :
       duration :
-      content : "I work with HTML, CSS, Javascript and GoLang to create websites and web applications like Personal, Business, Blog, E-comerces etc."
+      content : "I work with HTML, CSS, Javascript, WordPress and GoLang to create websites and web applications like Personal, Business, Blog, E-comerces etc."
       
     # experience item loop
     - name : "Web Designer"
