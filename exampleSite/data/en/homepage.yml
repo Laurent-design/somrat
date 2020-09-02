@@ -224,11 +224,11 @@ portfolio:
       category : "Web Design"
 
 
-################################# Testimonial #########################33
+################################# Partners #########################33
 partners:
   enable : true
   title : "PARTNERS"
-  testimonial_slider:
+  partners_slider:
     # slider item loop
     - name : "Micheal Clark"
       image : "images/clients/client1.jpg"
