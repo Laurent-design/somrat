@@ -3,7 +3,7 @@ baseURL = "https://test-mycreateurdesite.netlify.com"
 title = "MyCréateurdeSite | Hugo Portfolio Template"
 theme = "somrat"
 # disable language
-disableLanguages = [] # desable language from here
+disableLanguages = [fr-fr] # desable language from here
 
 ############################# Plugins ##############################
 
