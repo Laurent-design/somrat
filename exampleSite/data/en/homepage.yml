@@ -35,7 +35,7 @@ about:
   enable : true
   image : "images/backgrounds/workcatandme-1-hugo-site.jpg"
   title : "A PROPOS"
-  content : "Bonjour à tous, je suis Laurent, Développeur Web professionnel. Coder est ma passion. Je suis là pour vous aider à réaliser vos projets et construire vos outils numériques. Je peux également vous aider à construire votre image numérique. <br>Peu importe la difficulté, je trouverai facilement le moyen de concrétiser vos projets. Restons connectés............😊"
+  content : "Bonjour à tous, je suis Laurent, Développeur Web. Coder est ma passion. Je suis là pour vous aider à réaliser vos projets et construire vos outils numériques. Je peux également vous aider à créer votre image numérique. <br>Peu importe la difficulté, je trouverai facilement le moyen de concrétiser vos projets. Restons connectés............😊"
   # button
   button:
     enable : true
