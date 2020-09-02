@@ -80,11 +80,11 @@ skill:
       
     # skill item loop
     - name : "Web Redaction"
-      parcentage : "90%"
+      parcentage : "80%"
       
     # skill item loop
     - name : "Wordpress"
-      parcentage : "85%"
+      parcentage : "90%"
 
 
 ################################### Service ##############################3
