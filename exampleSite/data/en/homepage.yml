@@ -40,7 +40,7 @@ about:
   button:
     enable : true
     label : "CONTACT"
-    link : "https://test-mycreateurdesite.netlify.app/fr/#contact" # you can put your cv in static folder and give the path here.
+    link : "https://test-mycreateurdesite.netlify.app/#contact" # you can put your cv in static folder and give the path here.
 
 ###########################3 Experience ##############################
 experience:
