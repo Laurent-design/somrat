@@ -1,12 +1,12 @@
 ########################## hero area ##########################
 hero:
-  title : "Je suis Laurent"
+  title : "Bonjour l'ami"
 
   # animated text loop
   occupations:
-    - "Développeur Web"
-    - "Web Designer"
-    - "Rédacteur Web SEO"
+    - "Développement Web"
+    - "Web Design"
+    - "Rédaction Web SEO"
 
   # slider background image loop
   slider_image:
