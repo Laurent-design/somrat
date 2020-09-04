@@ -81,7 +81,7 @@ weight = 6
 #################### default parameters ################################
 [params]
 logo_light = "images/my__createurdesite_logo-sans-fond.png"
-logo_dark = "images/my__createurdesite_logo-dark-hugo.png"
+logo_dark = "images/my__createurdesite_logo-dark-hugo-1572.png"
 # Meta data
 description = "This is meta description"
 author = "somrat"
